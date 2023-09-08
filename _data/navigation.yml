@@ -1,22 +1,17 @@
 # main links links
 main:
-  - title: "Publications"
+  - title: "The Team"
     url: /publications/
 
-  - title: "Talks"
+  - title: "Assets and Credentials"
     url: /talks/    
 
-  - title: "Teaching"
+  - title: "Our Partner Network"
     url: /teaching/    
     
-  - title: "Portfolio"
+  - title: "Generative AI Offering"
     url: /portfolio/
         
-  - title: "Blog Posts"
+  - title: "Conference Schedule"
     url: /year-archive/
-    
-  - title: "CV"
-    url: /cv/
-    
-  - title: "Guide"
-    url: /markdown/
+
