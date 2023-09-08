@@ -12,23 +12,23 @@ Welcome to our talented team of data scientists who are passionate about turning
 ### Data Science Managing Directors and Assiocate Directors
 
 #### Fernando Lucini
-![John Doe](images/acn.png)
+![John Doe](images/fer.jpg)
 Global Lead for Data Science and Data Science Engineering team
 
 #### Di Black
-![Jane Smith](images/acn.png)
+![Jane Smith](images/di.jpg)
 UKI Data Science Lead for Financial Services
 
 #### Nina Fertacz
-![Jane Smith](images/acn.png)
+![Jane Smith](images/nina.jpg)
 Data Science Lead for BT, CMT and Customer
 
 #### Savi Bhogal
-![Jane Smith](images/acn.png)
+![Jane Smith](images/davi.jpg)
 Specialism in Machine Learning Engineering
 
 #### Pankaj Sodhi
-![Jane Smith](images/acn.png)
+![Jane Smith](images/pankaj.jpg)
 European Big Data Lead and Generative AI CEO Lead for Europe
 
 
