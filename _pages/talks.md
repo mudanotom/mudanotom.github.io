@@ -1,3 +1,11 @@
+---
+layout: archive
+title: "Assets & Credentials"
+permalink: /talks/
+author_profile: true
+---
+
+
 Our data science team has an exhasutive set of assets that we leverage when running our work. 
 
 See here the assets that we have available for us .
